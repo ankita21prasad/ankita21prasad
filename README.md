@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Ankita Prasad an aspiring data scientist and a part time web developer. Soon to a graduate :mortar_board: 
+📫 How to reach me: ankita2108prasad@gmail.com
+
+:page_with_curl: <a href="https://drive.google.com/file/d/1EXpT4zGI9sfnGSQMD5FIK-1-ZVa5jfIB/view?usp=sharing">Resume</a>
+
+
 
 <!--
 **ankita21prasad/ankita21prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
