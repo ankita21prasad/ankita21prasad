@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ankita Prasad an aspiring data scientist and a part time web developer. Soon to a graduate :mortar_board: 
+### Hi there 👋, I am Ankita Prasad
 📫 How to reach me: ankita2108prasad@gmail.com
 
 :page_with_curl: <a href="https://drive.google.com/file/d/1EXpT4zGI9sfnGSQMD5FIK-1-ZVa5jfIB/view?usp=sharing">Resume</a>
